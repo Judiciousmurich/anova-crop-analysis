@@ -1,0 +1,31 @@
+
+---
+
+### **`.gitignore`**
+
+```plaintext
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/*.csv
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
